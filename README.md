@@ -6,5 +6,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-**[Credit Card Fraud Detection](https://github.com/adcosta1/Data_Mining_Credit-Card-Fraud-Detection)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Credit Card Fraud Detection](https://github.com/adcosta1/Data_Mining_Credit-Card-Fraud-Detection)**
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. Because credit card fraud causes major financial losses, it is crucial for companies to identify suspicious patterns quickly. Our model analyzes transaction behaviors to classify legitimate and fraudulent activity with high accuracy.
